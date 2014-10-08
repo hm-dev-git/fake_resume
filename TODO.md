@@ -1,10 +1,5 @@
-* Name: Hammad Malik
+* Check markdown
 
-* Skills: 60 WPM typing speed
-Grit
+* add skills
 
-* Employment History:
-  * Internship - Linktank
-  * Renovation Apprenticeship - HomeWorkx
-
-* Shoe Size: 42. European
+* add history
