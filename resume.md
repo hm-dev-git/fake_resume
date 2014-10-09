@@ -1,5 +1,4 @@
- Hammad "InBewd" Malik
-------------------------
+* Name: Hammad Malik
 
 * Skills: 60 WPM typing speed
 Grit
