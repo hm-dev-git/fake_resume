@@ -2,6 +2,7 @@
 
 * Skills: 60 WPM typing speed
 Grit
+- yelling Yolo
 
 * Employment History:
   * Internship - Linktank
